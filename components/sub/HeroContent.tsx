@@ -62,6 +62,4 @@ export const HeroContent = () => {
       </motion.div>
     </motion.div>
   );
-};
-
-
+;}
