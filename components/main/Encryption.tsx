@@ -43,7 +43,7 @@ Performance
 
         <div className='Welcome-box px-[150px] py-[4px] z-[20] border my-[20px] border-[#7042f88b] opacity-[0.9]'>
             <h1 className='Welcome-text text-[12px]'>
-                Encryption
+                Protection
             </h1>
         </div>
         </div>
